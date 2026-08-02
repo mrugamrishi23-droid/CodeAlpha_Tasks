@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is CodeAlpha?",
+        "answer": "CodeAlpha is a leading software development company dedicated to driving innovation and excellence across emerging technologies, offering hands-on internship programs in AI, web development, and more."
+    },
+    {
+        "question": "What perks do interns receive?",
+        "answer": "CodeAlpha interns receive an Internship Offer Letter, a QR-verified Completion Certificate, a Unique ID Certificate, a Letter of Recommendation (based on performance), and placement/resume support."
+    },
+    {
+        "question": "How many tasks do I need to complete to get a certificate?",
+        "answer": "To be eligible for the internship certificate, you must complete a minimum of 2 or 3 tasks from your domain. Submitting only 1 task will be considered incomplete."
+    },
+    {
+        "question": "How do I submit my completed tasks?",
+        "answer": "You must upload your source code to GitHub in a specifically named repository, post a video explanation on LinkedIn tagging @CodeAlpha, and submit everything via the official submission form shared in your WhatsApp group."
+    },
+    {
+        "question": "What is the correct naming convention for the GitHub repository?",
+        "answer": "Your GitHub repository must be named exactly: CodeAlpha_ProjectName."
+    },
+    {
+        "question": "Who can I contact for support?",
+        "answer": "You can reach out via WhatsApp at +91 9336576683 or email the team at services@codealpha.tech or services.codealpha@gmail.com."
+    }
+]

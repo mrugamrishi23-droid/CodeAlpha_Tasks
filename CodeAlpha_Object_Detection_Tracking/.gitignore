@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+env/
+
+# YOLOv8 AI Model Weights
+*.pt
+yolov8n.pt
+
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ultralytics Prediction Outputs
+runs/
+
+# Environment variables (Best Practice)
+.env
